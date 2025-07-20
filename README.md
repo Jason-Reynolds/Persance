@@ -1,3 +1,4 @@
+# Persance
 A mordern Angular web app for managing personal finances - Track your expenses, visualise your budget, and stay in control of your money. 
 Built with Angular, Typescript, and Firebase.
 
